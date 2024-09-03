@@ -1,0 +1,39 @@
+1/12
+1. what does OOP stand for?
+= Object oriented programming
+
+1 / 12
+2. what is a class in OOP?
+= class is includes methods,objects,attributes 
+= class is a blueprint for an object
+
+3. define an object in context of oop
+= 
+
+4.What is purpouse of constacter in oop?
+=
+
+5.What does the self keyword represent in Python classes?
+=self keyword does the function of self calling 
+
+6.What is the main purpose of the turtle module in Python?
+=
+
+7.How do you import the Turtle module in Python?
+= from turtle import Turtle
+  turtle=Turtle()
+
+8.What function is used to set the color of a turtle?
+=turtle.pencolor()
+
+9.Which function is used to move the turtle forward by a specific distance?
+=turtle.forward(distance)
+
+10.What is inheritance in OOP?
+=inheritance is for inherit charecters from one class to another class,for getting their charecters on default
+
+11. What is a superclass?
+=for inheriting charecters from one class to another class we use superclass
+
+12.Can Python classes inherit from multiple superclasses? (Yes/No)
+=yes
